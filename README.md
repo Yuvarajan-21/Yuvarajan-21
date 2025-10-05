@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yuva Raj 👋
 
-<!--
-**Yuvarajan-21/Yuvarajan-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring AI Developer** | Python | Machine Learning | OpenCV | Flask  
+HTML | CSS | JavaScript | AI & Web Apps  
 
-Here are some ideas to get you started:
+Passionate about Building AI Projects and Shaping the Future of Intelligent Applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Programming: Python, JavaScript
+- AI & ML: Machine Learning, OpenCV, TensorFlow
+- Web: Flask, HTML, CSS, JS
+
+## 🎯 Current Focus
+  Learning advanced AI & Deep Learning to build smarter applications.
+
+## 📂 Projects
+- [ViewDetect](link) – Person & background detection AI
+- [Sofia AI](link) – AI assistant chatbot
+
+## 📫 Contact
+- Email: yuvarajan2106@gmail.com
